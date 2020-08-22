@@ -1,3 +1,2 @@
-# My Website.
-This Is My Respitory, I Use Github Pages As It Is Free, But I Could Use A Domain
-Other Than That Have Fun!
+# Miguelsgamingch's Website
+https://img.shields.io/badge/Website%20Version-V1.0%20Beta-green https://img.shields.io/badge/Website%20Server-Working-brightgreen
